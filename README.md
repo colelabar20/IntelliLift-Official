@@ -10,4 +10,4 @@ https://colelabar20.github.io/privacy.html
 ---
 
 ## Support
-colelabarre@gmail.com
+colelabar20@gmail.com
